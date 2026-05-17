@@ -1,0 +1,5 @@
+protocol,category,slug,current_tvl_usd,annual_rate_percent,rate_type,source,note,tvl_source,history_source
+Lido,liquid_staking,lido,19400326987.889008,2.43,APY,https://defillama.com/protocol/yields/lido,,https://api.llama.fi/tvl/lido,https://api.llama.fi/protocol/lido
+Rocket Pool,liquid_staking,rocket-pool,1088791298.8084104,1.97,APY,https://defillama.com/protocol/yields/rocket-pool,,https://api.llama.fi/tvl/rocket-pool,https://api.llama.fi/protocol/rocket-pool
+EigenLayer,restaking,eigencloud,7155723420.509637,,,No DeFiLlama yield page used,,https://api.llama.fi/tvl/eigencloud,https://api.llama.fi/protocol/eigencloud
+Ethereum Native Staking,native_staking,,,2.8,APR,https://ethereum.org/staking/,"Benchmark row from ethereum.org staking page; Total ETH staked: 38,746,608; Validators: 899,017",,

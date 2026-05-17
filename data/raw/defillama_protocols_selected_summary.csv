@@ -1,0 +1,4 @@
+protocol,category,slug,current_tvl_usd,current_apy_percent,tvl_source,history_source,apy_source,apy_note
+Lido,liquid_staking,lido,19750143537.119366,2.41,https://api.llama.fi/tvl/lido,https://api.llama.fi/protocol/lido,https://defillama.com/protocol/yields/lido,average APY parsed from DeFiLlama yield page
+Rocket Pool,liquid_staking,rocket-pool,1121028046.2247493,1.98,https://api.llama.fi/tvl/rocket-pool,https://api.llama.fi/protocol/rocket-pool,https://defillama.com/protocol/yields/rocket-pool,average APY parsed from DeFiLlama yield page
+EigenLayer,restaking,eigencloud,7340521767.636603,,https://api.llama.fi/tvl/eigencloud,https://api.llama.fi/protocol/eigencloud,https://defillama.com/protocol/yields/eigencloud,yield page unavailable: 404 Client Error: Not Found for url: https://defillama.com/protocol/yields/eigencloud

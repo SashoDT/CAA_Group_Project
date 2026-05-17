@@ -1,0 +1,12 @@
+We will have three main categories:
+1. Native staking
+2. Liquid Staking
+3. Restaking
+
+For each protocol we need to be clear:
+- What the user deposits
+- What the user receives
+- Where the yield comes from
+- Whether the position is liquid
+- What makes it more complex
+

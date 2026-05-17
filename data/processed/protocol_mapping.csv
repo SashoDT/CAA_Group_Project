@@ -1,0 +1,5 @@
+protocol,category,why_included
+Ethereum Native Staking,native_staking,Baseline for direct ETH staking.
+Lido,liquid_staking,Largest liquid staking example.
+Rocket Pool,liquid_staking,Alternative liquid staking design.
+EigenLayer,restaking,Representative restaking example.

@@ -218,3 +218,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 caa_env
+
+# macOS
+.DS_Store
